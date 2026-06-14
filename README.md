@@ -67,7 +67,7 @@ especially in healthtech and edtech. I pick up problems, figure them out, and sh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-yeshmin-ali-448731333)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanyeshminali@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://captainramen35-lgtm.github.io/muskan-s-portfolio-website/)
 ---
 
 *Open to hackathon collabs, research projects & startup ideas — especially in AI, healthtech & edtech* 🚀
