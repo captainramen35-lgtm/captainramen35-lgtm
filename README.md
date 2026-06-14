@@ -41,7 +41,7 @@ especially in healthtech and edtech. I pick up problems, figure them out, and sh
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🐛 **BugWhisper** | AI debugging companion that explains bugs the way a senior dev would | Node.js, Groq | [↗]([https://bug-whisper-one.vercel.app/)) |
+| 🐛 **BugWhisper** | AI debugging companion that explains bugs the way a senior dev would | Node.js, Groq | [↗]([https://bug-whisper-one.vercel.app/) |
 | 🏥 **MediKin** | Smart emergency health companion with QR-based medical history & SOS dispatch | React, Vite, Firebase | [↗](https://medi-kin.vercel.app/) |
 | 💻 **CodeSensei** | Serverless AI coding assistant with Big-O analysis & LLM-simulated CLI | Vanilla JS, Groq | [↗](https://captainramen35-lgtm.github.io/CodeSensei/) |
 | 📄 **ResumeForge** | AI-powered resume builder with ATS match evaluator & PDF export | Vanilla JS, Groq | [↗](https://captainramen35-lgtm.github.io/ResumeForge-an-AI-powered-resume-builder/) |
